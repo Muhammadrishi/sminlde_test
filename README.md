@@ -74,7 +74,7 @@ cd order-processor
 - `app/Http/Controllers/OrderController.php` - Order processing logic
 - `app/Models/Order.php` - Order model
 - `app/Models/OrderItem.php` - Order item model
-- `app/Jobs/ProcessSubscriptionOrder.php` - Async subscription processing
+- `app/Jobs/ProcessedSubscriptionOrders.php` - Async subscription processing
 - `database/migrations/` - Database structure
 
 ## Features Explained
